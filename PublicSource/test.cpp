@@ -3,7 +3,7 @@ using namespace std;
 
 int sub()
 {
-  cout << "this is sub function master J!" << endl;
+  cout << "this is sub function master K!" << endl;
 
   return 0;
 }
