@@ -3,7 +3,7 @@ using namespace std;
 
 int sub()
 {
-  cout << "this is sub function master platform!" << endl;
+  cout << "this is sub function master platform abc!" << endl;
 
   return 0;
 }
