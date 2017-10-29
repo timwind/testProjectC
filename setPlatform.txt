@@ -1,0 +1,8 @@
+
+git subtree add --prefix=platform https://github.com/timwind/testPlatform.git master
+
+git subtree push --prefix=platform https://github.com/timwind/testPlatform.git master
+
+git subtree pull --prefix=platform https://github.com/timwind/testPlatform.git master
+
+
